@@ -6,8 +6,8 @@
   - looking for 50 wpm
 
 - 🤓 Courses I'm studying right now:
-  - [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/games/2018/)
-  - [CS50’s Introduction to Game Development](https://cs50.harvard.edu/ai/2020/)
+  - [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020)
+  - [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/2018/)
   - [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)
   - [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
 <!---
