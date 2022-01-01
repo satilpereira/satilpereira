@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embbedded systems and IoT devices in general
 - 🌱 I’m currently learning C, CSS, Javascript, HTML, Database modeling and Python
 - 💞️ I’m looking to collaborate on projects outside my interest área
-- ⌨️ Current Typing speed: 18 wpm
+- ⌨️ Current Typing speed: 21 wpm (+3 from yesterday)
   - looking for 50 wpm
 
 - 🤓 Courses I'm studying right now:
