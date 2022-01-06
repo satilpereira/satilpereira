@@ -11,6 +11,7 @@
   - [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/2018/)
   - [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)
   - [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
+  - [Responsive Web Development - FreeCodeCamp(:fire:)](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 <!---
 satilpereira/satilpereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
