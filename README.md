@@ -3,6 +3,31 @@
 - 🌱 I’m currently learning C, CSS, Javascript, HTML, Database modeling and Python
 - 💞️ I’m looking to collaborate on projects outside my interest área
 
+My ideal skillset:
+  - Basic programming skills
+  - Great languages repertory
+  - Object Oriented Programming
+  - Code Testing:
+    - Hacking
+    - Debugging
+    - Tests
+  - Discrete maths
+  - Data Structures and Algorythms
+  - Compiler building
+  - Operating Systems
+  - Artificial inteligence
+  - UX design
+  - Criptography
+  - Parallel programming
+  - Outside projects:
+    - Server building
+    - Keep a website
+    - create a robot
+  - Collaborate on Open source projects
+  - Programming competitions good placements
+  - Giving programming lessons
+  - Get a software engineering internship
+
 - 🤓 Courses I'm studying right now:
   - [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020)
   - [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/2018/)
