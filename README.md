@@ -6,6 +6,15 @@
 My ideal skillset:
   - Basic programming skills
   - Great languages repertory
+    - C
+    - C++
+    - Python
+    - HTML, CSS JavaScript
+      - XML
+      - Sass
+      - React.js
+    - Node.js
+    - SQL
   - Object Oriented Programming
   - Code Testing:
     - Hacking
