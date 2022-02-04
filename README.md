@@ -1,49 +1,39 @@
-- 👋 Hi, I’m @satilpereira
-- 👀 I’m interested in Embbedded systems and IoT devices in general
-- 🌱 I’m currently learning C, CSS, Javascript, HTML, Database modeling and Python
-- 💞️ I’m looking to collaborate on projects outside my interest área
+# Hey hi! How ya doin'?
 
-My ideal skillset:
-  - Basic programming skills
-  - Great languages repertory
-    - C
-    - C++
-    - Python
-    - HTML, CSS JavaScript
-      - XML
-      - Sass
-      - React.js
-    - Node.js
-    - SQL
-  - Object Oriented Programming
-  - Code Testing:
-    - Hacking
-    - Debugging
-    - Tests
-  - Discrete maths
-  - Data Structures and Algorythms
-  - Compiler building
-  - Operating Systems
-  - Artificial inteligence
-  - UX design
-  - Criptography
-  - Parallel programming
-  - Outside projects:
-    - Server building
-    - Keep a website
-    - create a robot
-  - Collaborate on Open source projects
-  - Programming competitions good placements
-  - Giving programming lessons
-  - Get a software engineering internship
+## I'm Satil dos Santos, a computer engineering
 
-- 🤓 Courses I'm studying right now:
-  - [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020)
-  - [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/2018/)
-  - [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)
-  - [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
-  - [Responsive Web Development - FreeCodeCamp(:fire:)](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
-<!---
-satilpereira/satilpereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### My skills include:
+<ul>
+  <li>Programming logics</li>
+  <li>Data structures</li>
+  <li>Sorting Algorithms</li>
+  <li>Searching algorithms</li>
+  <li>Database modeling</li>
+  <li>A little bit of UI/UX Design</li>
+  
+</ul>
+
+### I know these languages to a certain extent:
+<ul>
+  <strong>Frontend: </strong>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Sass</li>
+  </ul>
+  <strong>Backend: </strong>
+  <ul>
+    <li>C</li>
+    <li>C++</li>
+    <li>Python</li>
+  </ul>
+  <strong>Frameworks</strong>
+  <ul>
+    <li>Django</li>
+    <li>Bootstrap</li>
+  </ul>
+</ul>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satilpereira&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satilpereira&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
