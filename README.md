@@ -1,6 +1,6 @@
 # Hey hi! How ya doin'?
 
-## I'm Satil dos Santos, a computer engineering
+## I'm Satil dos Santos, a computer engineering student
 
 ### My skills include:
 <ul>
