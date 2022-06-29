@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/85520466/176546908-eac35bd1-42ba-4bc0-a4e0-c6c47d13fe39.gif">
 </div>
 
-<h2 align="center">Oi, eu sou o satil</h2>
+<h1 align="center">Oi, eu sou o satil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="28"></h1>
 <p align="center">Desenvolvedor full-stack e estudante de engenharia da computação</p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satilpereira&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -40,3 +40,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satilpereira&count_private=true&show_icons=true&theme=dracula">
 </p>
+<div align="center">
+<p>Quer me dar suporte? clica no botão aí em baixo 🤓</p>
+  <a href="https://www.buymeacoffee.com/satil.dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div
