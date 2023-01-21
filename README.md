@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
 
-<br>
+<hr>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satilpereira&count_private=true&show_icons=true&theme=dracula">
