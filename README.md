@@ -1,13 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/85520466/176546908-eac35bd1-42ba-4bc0-a4e0-c6c47d13fe39.gif">
+  <img src="https://user-images.githubusercontent.com/85520466/219727615-7999b5ba-0166-4487-8a30-dd46239cf68d.png">
 </div>
 
-<h1 align="center">Oi, eu sou o satil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="28"></h1>
-<p align="center">Desenvolvedor full-stack e estudante de engenharia da computação</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satilpereira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<h4 align="center">Ferramentas que eu uso diariamente</h4>
+<h4 align="center">Tools I use daily</h4>
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,7 +17,7 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
-<h4 align="center">Outras tecnologias</h4>
+<h4 align="center">Other technologies</h4>
 
 <div align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
@@ -41,6 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=satilpereira&count_private=true&show_icons=true&theme=dracula">
 </p>
 <div align="center">
-<p>Quer me dar suporte? clica no botão aí em baixo 🤓</p>
+<p>Want to support me? Click in the button down below 🤓</p>
   <a href="https://www.buymeacoffee.com/satil.dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div
