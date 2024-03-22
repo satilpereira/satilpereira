@@ -20,6 +20,7 @@ But I have worked with many other technologies in the past, including MySQL, C/C
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![WASM](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
 
 ## I have contributed to some names in my carreer
 | Who? | Event if applies | What ? |
