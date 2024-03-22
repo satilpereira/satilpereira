@@ -3,7 +3,7 @@ Your full stack engineer
 
 ![](https://komarev.com/ghpvc/?username=satilpereira&color=blueviolet)
 
-## My tech stack in mainly focused on the following technologies
+## My tech stack is mainly focused on the following technologies
 But I have worked with many other technologies in the past, including MySQL, C/C++, Java, PHP, Jquery, React Native, Sass, and the list goes on 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
