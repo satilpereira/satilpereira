@@ -17,7 +17,7 @@ I enjoy building software where correctness, performance, and architecture matte
 ## Highlighted Projects
 
 ### CAMI (Active development)
-Co-Adaptive Myoelectric Interface for bionic prosthetics. Most sEMG today rely on pre defined movements like thumbs up, hand grip and so on. This project analysis wheter it is viable to create a coadaptive interface where both the prostetic and the person adapts thenselves one to another.
+Co-Adaptive Myoelectric Interface for bionic prosthetics. Most sEMG today rely on pre defined movements like thumbs up, hand grip and so on. This project analysis wheter it is viable to create a coadaptive interface where both the prostetic and the person adapts thenselves one to another. I'm testing stuff on a [sandbox environment](https://github.com/satilpereira/myo-emg-sandbox])
 
 ### QuarkDB (Paused)
 Experimental database implementation written in C++ for embedded systems, just a fun project, not very useful at all but I might use it on my prostetic project.
